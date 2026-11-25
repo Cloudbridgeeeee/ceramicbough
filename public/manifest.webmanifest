@@ -1,0 +1,16 @@
+{
+  "name": "CeramicBough",
+  "short_name": "CeramicBough",
+  "description": "AI visual inspection software that helps ceramic manufacturers classify visible production defects from product photographs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2ec",
+  "theme_color": "#f6f2ec",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
