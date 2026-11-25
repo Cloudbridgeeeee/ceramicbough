@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for CeramicBough.
 - Industry: Manufacturing, Computer Vision, Quality Assurance
 - Founder: Olumide Akinyemi (Founder & CEO)
 - Co-founder: Emeka Ogbodo (Co-founder & CTO)
-- Contact: olumide@ceramicbough.top
+- Contact: olumide@ceramicbough.space
 - Business model: Inspection-volume subscriptions
 
 ## Stack
